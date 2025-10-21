@@ -40,5 +40,5 @@ switch (berry) {
         console.log("Blueberries are NOT botanically berries");
         break;
     default:
-        console.log("Whatever that is its NOT botanically a berry(s)")
+        console.log("Whatever that is its NOT botanically a berry(s)");
 }
