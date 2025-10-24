@@ -42,3 +42,7 @@ switch (berry) {
     default:
         console.log("Whatever that is its NOT botanically a berry(s)");
 }
+
+console.log(new Date())
+console.log(Math.floor(5.9))
+console.log(Math.random())
